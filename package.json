@@ -1,0 +1,11 @@
+{
+  "name": "word-bounty",
+  "version": "1.0.0",
+  "description": "A fast-paced or chill word game where the user is given a **hint** (like a rhyme, synonym, or definition), and must guess the target word correctly. Think of it like a micro “Guess That Word” challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
